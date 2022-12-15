@@ -1,4 +1,25 @@
-# Hi there, I'm Dew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+---
+title: About Me
+url: "/about"
+---
+
+# <img alt="Hey, " src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> Hello there! I'm Dew
+
+- 🤓 A super-duper nerdy boi
+
+## 🕰️ My Coding Stats
+
+### Weekly
+
+<!--START_SECTION:wakaweek-->
+<!--END_SECTION:wakaweek-->
+
+> Source: [WakaTime](https://wakatime.com/)
+
+## 📚 Certification badges
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <!--
 **dewkul/dewkul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
