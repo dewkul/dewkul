@@ -2,8 +2,8 @@ name: Update credly badges
 
 on:
   schedule:
-    # Runs at 12am UTC
-    - cron: "0 12 * * *"
+    # Runs at 14:15 UTC
+    - cron: "15 14 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges

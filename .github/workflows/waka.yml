@@ -1,9 +1,9 @@
-name: Update WakaTime weekly stats
+name: Update WakaTime stats
 
 on:
   schedule:
-    # Runs at 10pm UTC
-    - cron: "22 0 * * *"
+    # Runs at 22:30 UTC
+    - cron: "30 22 * * *"
 jobs:
   update-waka-weekly:
     name: Update metrics

@@ -1,6 +1,11 @@
 name: gitlab-sync
 run-name: gitlab-sync
-on: [push, delete]
+on:
+  push:
+  workflow_run:
+    workflows: [Update WakaTime stats, Update credly badges]
+    types:
+      - completed
 
 jobs:
   sync:
