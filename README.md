@@ -25,7 +25,7 @@ Other        1 hr            ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:wakamonth-->
 <!--END_SECTION:wakamonth-->
 
-## 📚 Certification badges
+## 📚 Certification Badges
 
 <!--START_SECTION:badges-->
 
