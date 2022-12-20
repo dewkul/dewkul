@@ -9,7 +9,7 @@ jobs:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
-      - name: Badges - Readme
+      - name: sync credly badges
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -17,5 +17,5 @@ jobs:
           COMMIT_MESSAGE: "ci(credly): update badges" # optional
           # CREDLY_USER: <username_credly> # optional, but default will use the same from github
           CREDLY_SORT: POPULAR  #RECENT or POPULAR # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
-          BADGE_SIZE: 50 # the resolution to the badges images # optional, 110x110 default
-          NUMBER_LAST_BADGES: 10 # the maximum last badges to show # optional, will show the 48 in the first page
+          BADGE_SIZE: 65 # the resolution to the badges images # optional, 110x110 default
+          NUMBER_LAST_BADGES: 15 # the maximum last badges to show # optional, will show the 48 in the first page
