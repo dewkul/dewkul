@@ -1,6 +1,7 @@
 # <img alt="Hey, " src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> Hello there! I'm Dew
 
 - 🤓 A super-duper nerdy boi
+- 🌱 I’m currently learning `deno`, `solidity`, `rust` in Jan 2023.
 
 ## 🎯 Skills
 
@@ -71,8 +72,10 @@ Docker                     3 hrs 42 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 📚 Certification Badges
 
 <!--START_SECTION:badges-->
+
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/65x65/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/89716b9a-dbfc-4f71-8947-dbe64ec46fe8 "AWS Certified Cloud Practitioner")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/65x65/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/54f7256b-1e83-460b-87e5-f2d62916a77c "CKAD: Certified Kubernetes Application Developer")
+
 <!--END_SECTION:badges-->
 
 <!--
