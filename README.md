@@ -1,4 +1,4 @@
-# <img alt="Hey, " src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> Hello there! I'm Dew
+# <img alt="Hey, " src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"> Hello there! I'm Dew
 
 - 🤓 A super-duper nerdy boi
 - 🌱 I’m currently learning `deno`, `solidity`, `rust` in Jan 2023.
@@ -35,7 +35,7 @@
 
 ## 🕰️ Coding Stats
 
-> Coding time is not indicative of coding skills
+> The time spent is not indicative of proficiency
 
 ### Weekly
 
@@ -69,7 +69,7 @@ Docker                     3 hrs 42 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:wakamonth-->
 
-## 📚 Certification Badges
+## 📚 Certifications
 
 <!--START_SECTION:badges-->
 
