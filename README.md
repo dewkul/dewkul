@@ -1,7 +1,7 @@
 # <img alt="Hey, " src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"> Hello there! I'm Dew
 
 - 🤓 A super-duper nerdy boi
-- 🌱 I’m currently learning `deno`, `solidity`, `rust` in Jan 2023.
+- 🌱 I’m currently learning `fresh - deno`, `solidity`, and `rust` in Jan 2023.
 
 ## 🎯 Skills
 
