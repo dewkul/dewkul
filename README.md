@@ -5,7 +5,7 @@
 
 ## 🕰️ Coding Stats
 
-> The time spent is not indicative of proficiency
+> The time spent is indicative of productivity, not proficiency
 
 ### Weekly
 
