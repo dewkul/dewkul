@@ -73,11 +73,9 @@ JSON              4 hrs 54 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 📚 Certifications
 
 <!--START_SECTION:badges-->
-
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/65x65/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/df13d252-02da-44c0-b78a-b535bb3c1938 "AWS Certified Cloud Practitioner")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/65x65/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/b37736c4-6f5f-4d66-98ff-33c0ae100710 "AWS Certified Solutions Architect – Associate")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/65x65/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/54f7256b-1e83-460b-87e5-f2d62916a77c "CKAD: Certified Kubernetes Application Developer")
-
 <!--END_SECTION:badges-->
 
 <!--
