@@ -1,11 +1,9 @@
 # <img alt="Hey, " src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"> Hello there! I'm Dew
 
-- 🤓 A super-duper nerdy boi
-- 🌱 I’m currently learning `Next.js`, `solidity` in Feb 2023.
+- 🤓 A recent graduate in Software Engineering
+- 🌱 I’m currently learning `flutter`, `solidity`.
 
 ## 🕰️ Coding Stats
-
-> The time spent is not indicative of proficiency
 
 ### Weekly
 
@@ -39,7 +37,7 @@ Dart                       3 hrs 32 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:wakamonth-->
 
-## 🎯 Skills
+<!-- ## 🎯 Skills
 
 - **Back End**
 
@@ -63,7 +61,7 @@ Dart                       3 hrs 32 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 - **CI/CD**
 
-  ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-FB542B.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![FluxCD](https://img.shields.io/badge/flux%20cd-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![ArgoCD](https://img.shields.io/badge/argo%20cd-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
+  ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-FB542B.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![FluxCD](https://img.shields.io/badge/flux%20cd-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![ArgoCD](https://img.shields.io/badge/argo%20cd-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white) -->
 
 <!-- - **Linux**
 
@@ -72,9 +70,11 @@ Dart                       3 hrs 32 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 📚 Certifications
 
 <!--START_SECTION:badges-->
+
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/65x65/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/df13d252-02da-44c0-b78a-b535bb3c1938 "AWS Certified Cloud Practitioner")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/65x65/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/b37736c4-6f5f-4d66-98ff-33c0ae100710 "AWS Certified Solutions Architect – Associate")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/65x65/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/54f7256b-1e83-460b-87e5-f2d62916a77c "CKAD: Certified Kubernetes Application Developer")
+
 <!--END_SECTION:badges-->
 
 <!--
