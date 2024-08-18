@@ -1,7 +1,7 @@
 # <img alt="Hey, " src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"> Hello there! I'm Dew
 
-- 🤓 A recent graduate in Software Engineering
-- 🌱 I’m currently learning `flutter`, `solidity`.
+<!-- - 🤓 A recent graduate in Software Engineering -->
+<!-- - 🌱 I’m currently learning `flutter`, `solidity`. -->
 
 ## 🕰️ Coding Stats
 
