@@ -10,10 +10,9 @@
 <!--START_SECTION:wakaweek-->
 
 ```txt
-From: 05 January 2025 - To: 12 January 2025
+From: 06 January 2025 - To: 13 January 2025
 
-YAML   16 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀   65.48 %
-JSON   8 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.52 %
+JSON   8 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:wakaweek-->
