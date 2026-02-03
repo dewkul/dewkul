@@ -10,7 +10,7 @@
 <!--START_SECTION:wakaweek-->
 
 ```txt
-From: 25 January 2026 - To: 01 February 2026
+From: 27 January 2026 - To: 03 February 2026
 
 No activity tracked
 ```
