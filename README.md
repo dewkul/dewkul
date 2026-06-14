@@ -22,7 +22,7 @@ No activity tracked
 <!--START_SECTION:wakamonth-->
 
 ```txt
-From: 13 May 2026 - To: 12 June 2026
+From: 14 May 2026 - To: 13 June 2026
 
 No activity tracked
 ```
